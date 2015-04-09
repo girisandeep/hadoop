@@ -1,2 +1,3 @@
 # hadoop
 Some explorations on hadoop with some case studies...
+Few exercises of course at (http://www.knowbigdata.com)
